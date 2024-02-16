@@ -1,0 +1,7 @@
+INFO: Requesting version
+INFO: Module version 1.5.2
+INFO: Requesting version
+INFO: Module version 1.5.2
+INFO: Drawing an animation
+INFO: Current frame n: 216 minimal k: 0INFO: Current frame n: 3140 minimal k: 0INFO: Current frame n: 2920 minimal k: 0INFO: Current frame n: 2715 minimal k: 0INFO: Current frame n: 2524 minimal k: 0INFO: Current frame n: 2347 minimal k: 0INFO: Current frame n: 2182 minimal k: 0INFO: Current frame n: 2029 minimal k: 0INFO: Aborting computation
+DEBUG: Quit received
