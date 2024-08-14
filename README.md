@@ -15,7 +15,8 @@ In two different terminals:
 # [Video demo](https://youtu.be/-j_EPIvqLuo) of using the program
 
 # Output examples
-![fractal_2](assets/fractal_2.png)|![fractal_1](assets/fractal_1.png)
+![fractal_2](assets/fractal_2.png)
+![fractal_1](assets/fractal_1.png)
 
 # Description
 
